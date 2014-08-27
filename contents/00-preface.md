@@ -1,3 +1,3 @@
-# preface
+# Preface
 
-design pattern training
+Learn object oriented programming and write some simple cases of common design patterns.
